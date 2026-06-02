@@ -10,6 +10,8 @@ Este projeto foi desenvolvido utilizando ESP32, MicroPython, display OLED e serv
 - Leitura de múltiplos botões utilizando entradas digitais.
 - Simulação de um sistema de acesso bloqueado/desbloqueado.
 
+  ![imagemdoprojeto](https://github.com/GustavoMoraes-DEV/Porta1/blob/main/porta1.png)
+
 ## 📚 Aprendizados
 
 Durante o desenvolvimento deste projeto foram praticados os seguintes conceitos:
